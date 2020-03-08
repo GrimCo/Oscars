@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "up": "oscars:block/oscar_top",
+    "down": "oscars:block/oscar_bottom",
+    "east": "oscars:block/oscar_side",
+    "west":  "oscars:block/oscar_side",
+    "north":  "oscars:block/oscar_side",
+    "south":  "oscars:block/oscar_side",
+    "particle": "oscars:block/oscar_side"
+  }
+}
