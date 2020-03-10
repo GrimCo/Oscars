@@ -7,13 +7,13 @@
   ],
   "key": {
     "#": {
-      "item": "minecraft:iron_ingot"
+      "tag": "forge:ingots/iron"
     },
     "E": {
       "item": "minecraft:ender_eye"
     }
   },
   "result": {
-    "item": "oscars:oscar"
+    "item": "oscars:trashcan"
   }
 }
